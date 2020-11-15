@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/guillermo/anaconda3/envs/CenterNet/CenterNet/src/ROS/src/centernet_ros/build/devel/setup.sh
